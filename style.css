@@ -8,6 +8,7 @@
     text-align: center;
     padding-bottom: 160px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 h1{
     font-size: 35px;
@@ -19,4 +20,35 @@ h1{
     font-weight: 550;
     padding: 10px 15px;
     background-color: rgb(234, 48, 48);
+}
+.happiness{
+    text-align: center;
+    font-size: large;
+}
+.amount{
+   display: flex;
+  display: -webkit-flex;
+   width: 60%;
+   height: 100px;
+   
+}
+.kop {
+    background-color: gray;
+    justify-content: space-evenly;
+    padding-left: 40px;
+    margin-left: 90px;
+    padding-right: 10px;
+    padding-top: 7px;
+    
+
+}
+.button{
+    text-align: center;
+    padding-left: 44%;
+    padding-right: 44%;
+}
+#change-color{
+    color: rgb(18, 15, 15);
+    background-color: rgb(225, 176, 176);
+    border: 2px solid tomato;
 }
