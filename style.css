@@ -1,0 +1,22 @@
+.donate-now{
+    background-image: url(images/donation7.jpg);
+    padding-top: 160px;
+    filter: brightness(80%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(221, 243, 23);
+    text-align: center;
+    padding-bottom: 160px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 35px;
+}
+.link-button{
+    color: rgb(250, 248, 247);
+    border-radius: 9px;
+    text-decoration: none;
+    font-weight: 550;
+    padding: 10px 15px;
+    background-color: rgb(234, 48, 48);
+}
