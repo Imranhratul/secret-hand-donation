@@ -52,3 +52,73 @@ h1{
     background-color: rgb(225, 176, 176);
     border: 2px solid tomato;
 }
+.our-plan{
+    text-align: center;
+}
+.section-plan{
+    display: flex;
+}
+.icon-container1{
+    display: flex;
+    width: 300px;
+     height: 300px;
+     background-color: rgb(206, 239, 228);
+     padding: 25px 15px;
+     margin: 110px;
+     margin-right: 60px;
+}
+.icon-container2{
+    display: flex;
+    width: 300px;
+     height: 300px;
+     background-color: rgb(244, 196, 177);
+     padding:25px 15px;
+     margin: 110px;
+     margin-left: 70px;
+     
+}
+.icon-container3{
+    display: flex;
+    width: 300px;
+     height: 300px;
+     background-color: rgb(219, 160, 218);
+     padding:25px 15px;
+     margin: 110px;
+     margin-left: 10px;
+}
+footer{
+    background-color: rgb(43, 41, 41);
+    color: bisque;
+    padding: 40px;
+    margin: -8px;
+    text-align: center;
+}
+#humble{
+    color: rgb(224, 52, 52);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button-css{
+    text-align: center;
+}
+.css-button{
+    text-align: center;
+    background-color:tan ;
+    padding: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+}
+input[type=email] {
+    background-color: gray;
+    padding: 6px 4px;
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+input[type=button] {
+    background-color: rgb(238, 87, 87);
+    color: antiquewhite;
+    padding: 6px 4px;
+    border-radius: 5px;
+    margin-right: 8px 0;
+}
